@@ -4,7 +4,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 ## Dataset Summary
 - Rows: 3,900
 - Columns: 18
-- Key Features: 
+### Key Features: 
 - Customer demographics (Age, Gender, Location, Subscription Status)
 -  Purchase details (Item Purchased, Category, Purchase Amount, Season, Size, Color)
 -  Shopping behavior (Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type)
