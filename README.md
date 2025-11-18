@@ -19,6 +19,7 @@ This project analyzes customer shopping behavior using transactional data from 3
 - Performed SQL analysis including customer segmentation queries, category-wise purchase trends, gender & location distributions, and frequency-based customer behavior exploration.
 ## Power BI
 -Built interactive Power BI dashboards to visualize patterns
+![Dashboard](assets/powerbi-dashboard.png)
 Findings:
 - Higher number of customers without subscription status
 - Clothing category and Young adult group has higher revenue and sales
